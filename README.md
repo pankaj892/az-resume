@@ -10,7 +10,7 @@ The project uses basic HTML, CSS and JavaScript to create a simple website and a
 
 Project can be accessed [here](https://azresume.azureedge.net/)
 
-Technology Stack used :
+Tech Stack used :
 1. DotNET Core 6.0
 2. Azure App Service
 3. Azure Cosmos DB
