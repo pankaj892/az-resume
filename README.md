@@ -4,7 +4,7 @@ My resume hosted on the Azure Cloud platform
 Project Description
 -------------------
 This project is a simple website hosted on the Azure Cloud platform.
-THe project uses basic HTML, CSS and JavaScript to create a simple website and a counter which shows the number of visitors to the website which is handled by a custom api hosted on Azure Functions and the data is stored in Azure Cosmos DB. 
+The project uses basic HTML, CSS and JavaScript to create a simple website and a counter which shows the number of visitors to the website which is handled by a custom api hosted on Azure Functions and the data is stored in Azure Cosmos DB. 
 
 [Inspiration for project](https://cloudresumechallenge.dev/)
 
