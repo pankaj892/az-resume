@@ -21,5 +21,4 @@ Tech Stack used :
 
 
 ## Update
-----------------
 This project has been temporarily suspended due to increasing server and infrastructure costs which has made it difficult to sustain the project.
