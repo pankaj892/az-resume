@@ -18,3 +18,8 @@ Tech Stack used :
 5. Azure CDN to reduce latency and improve performance
 6. Azure Functions for serverless computing to fetch api data from the database
 7. Github Actions for CI/CD
+
+
+## Update
+----------------
+This project has been temporarily suspended due to increasing server and infrastructure costs which has made it difficult to sustain the project.
