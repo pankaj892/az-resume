@@ -21,5 +21,5 @@ Tech Stack used :
 
 
 ## Update
-This project has been temporarily paused due to increasing server and infrastructure costs which has made it difficult to sustain the project.
-Currently working on bringing it online in a economically viable way
+This project has been temporarily paused due to increasing server and infrastructure costs.
+I am currently working on bringing it online in a economically viable way
